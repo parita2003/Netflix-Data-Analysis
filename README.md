@@ -52,10 +52,7 @@ The dataset contains information about movies with the following attributes:
 - The least popular movie is `The United States vs. Billie Holiday`.
 - The highest number of movies were released in the year 2020.
 
-## Future Enhancements
-- Extend the analysis with additional insights such as revenue trends.
-- Implement a machine learning model to predict movie popularity.
-- Create interactive visualizations using Plotly or Dash.
+
 
 
 
